@@ -1,6 +1,3 @@
-Here's a polished and detailed `README.md` template for your repository on GitHub:
-
-```markdown
 # Docker Commands
 
 Welcome to the **Docker Commands** repository! This repository contains a list of useful Docker commands that help streamline working with Docker images and containers. Whether you're managing containers or building images, these commands will assist you in your daily tasks.
@@ -10,6 +7,7 @@ Welcome to the **Docker Commands** repository! This repository contains a list o
 1. [Working with Images](#working-with-images)
 2. [Working with Containers](#working-with-containers)
 3. [Helpful Commands](#helpful-commands)
+4. [Resources](#resources)
 
 ---
 
